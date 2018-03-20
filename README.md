@@ -22,6 +22,5 @@ As customer sits on the restaurent table the speech API sends greetings message.
 
 
 ----------
-![picture](https://www.dropbox.com/s/r7fccu5qdq9fyfe/gui1.png)
 
 ----------
