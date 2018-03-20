@@ -22,6 +22,6 @@ As customer sits on the restaurent table the speech API sends greetings message.
 
 
 ----------
-![alt tag](https://www.dropbox.com/s/r7fccu5qdq9fyfe/gui1.png?dl=0 "Description goes here")
+![picture](https://www.dropbox.com/s/r7fccu5qdq9fyfe/gui1.png)
 
 ----------
