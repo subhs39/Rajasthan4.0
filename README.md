@@ -21,6 +21,8 @@ That's all we need to blow life to any surface, like restraunt table
 This Product is entirely revolves  around **Augmented Reality** .
 * OpenCV 3.4
 * Python3
+* Google Cloud Vision API
+* Uber API
 * Laravel
 * HTML and CSS
 
