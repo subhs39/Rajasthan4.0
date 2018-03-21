@@ -4,6 +4,7 @@
 Hi! we are Team *NRG* from  **Rajasthan Hackathon 4.0**. We are here to revolutionalize the way people ( Native as well as non-native ) people order food from Restraunt, without any Hassle or translator with the help of Technologies like AR, OpenCV, Python3, and some JS libs.
 
 Tourism is the sector which would be hugely benefitted from this product.
+Because it's scalable, responsive and revolutionary.
 
 This Product can bring any dead screen come to Life !
 
@@ -24,6 +25,7 @@ This Product is entirely revolves  around **Augmented Reality** .
 * Google Cloud Vision API
 * Uber API
 * Laravel
+* A PaaS like Heroku
 * HTML and CSS
 
 
