@@ -5,6 +5,13 @@ Hi! we are Team *NRG* from  **Rajasthan Hackathon 4.0**. We are here to revoluti
 
 This Product can bring any dead screen come to Life !
 
+# Devices used
+
+* A projector for protection.
+* A camera module for raspberry pi 
+* A raspberry pi 3b
+That's all we need to blow life to any surface, like restraunt table
+
 
 
 # Technologies Used
