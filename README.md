@@ -3,6 +3,8 @@
 
 Hi! we are Team *NRG* from  **Rajasthan Hackathon 4.0**. We are here to revolutionalize the way people ( Native as well as non-native ) people order food from Restraunt, without any Hassle or translator with the help of Technologies like AR, OpenCV, Python3, and some JS libs.
 
+Tourism is the sector which would be hugely benefitted from this product.
+
 This Product can bring any dead screen come to Life !
 
 # Devices used
