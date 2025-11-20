@@ -1,7 +1,7 @@
 # Rajasthan4.0
 # Welcome to La-Carte!
 
-Hi! we are Team *NRG* from  **Rajasthan Hackathon 4.0**. We are here to revolutionalize the way people ( Native as well as non-native ) people order food from Restraunt, without any Hassle or translator with the help of Technologies like AR, OpenCV, Python3, and some JS libs.
+Hi! we are Team *NRG* from  **Rajasthan Hackathon 4.0**. We are here to revolutionalize the way people ( Native as well as non-native ) people order food from restaurants, without any Hassle or translator with the help of Technologies like AR, OpenCV, Python3, and some JS libs.
 
 Tourism is the sector which would be hugely benefitted from this product.
 Because it's scalable, responsive and revolutionary.
@@ -37,3 +37,4 @@ As customer sits on the restaurent table the speech API sends greetings message.
 ----------
 
 ----------
+
